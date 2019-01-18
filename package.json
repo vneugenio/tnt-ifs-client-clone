@@ -1,0 +1,22 @@
+{
+  "name": "tnt-ifs-client-clone",
+  "version": "1.0.0",
+  "description": "tnt ifs client clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vneugenio/tnt-ifs-client-clone.git"
+  },
+  "keywords": [
+    "ifs-clone"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vneugenio/tnt-ifs-client-clone/issues"
+  },
+  "homepage": "https://github.com/vneugenio/tnt-ifs-client-clone#readme"
+}
